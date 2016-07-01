@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\bin\Debug\ThreadSpin.exe.config
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\bin\Debug\ThreadSpin.exe
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\bin\Debug\ThreadSpin.pdb
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\obj\Debug\ThreadSpin.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\obj\Debug\ThreadSpin.Form1.resources
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\obj\Debug\ThreadSpin.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\obj\Debug\ThreadSpin.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\obj\Debug\ThreadSpin.exe
+d:\documents\visual studio 2015\Projects\ThreadSpin\ThreadSpin\obj\Debug\ThreadSpin.pdb
